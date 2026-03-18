@@ -25,3 +25,5 @@ GND: Common ground for LEDs
 - In serial monitor, a web link will be available, paste it onto browser and GO
 
 ### ---done---
+
+https://github.com/user-attachments/assets/fbae05b8-aedd-4389-a5d5-2c41242f7534
