@@ -101,3 +101,5 @@ The LED glows only when:
 - The circuit works correctly as a basic burglar alarm  
 
 ---
+
+https://github.com/user-attachments/assets/a79e8741-9bf8-4c03-9b42-da807c6c61c0
