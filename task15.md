@@ -3,6 +3,8 @@
 ## Result 
 (Thumbs up emoji). Participated in a healthcare hackathon at BNMIT.
 
-![Image](https://github.com/user-attachments/assets/e480493d-9102-48ee-ac10-58bcd845fe2c)
+![Image](https://github.com/user-attachments/assets/01e68c07-5e3c-4813-a561-59f87bff7022)
 
-![Image](https://github.com/user-attachments/files/26078471/Document.19.pdf)
+
+
+
