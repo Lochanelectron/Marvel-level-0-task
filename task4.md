@@ -67,3 +67,5 @@ cat fileA.txt fileB.txt
 
 In this task, I practiced basic Linux terminal commands like creating folders, creating files, listing files, and combining text files. This helped me understand how to use the command line in a simple way.
 
+https://github.com/user-attachments/assets/3e539e7a-3c88-41de-b4d1-661b064941cc
+
