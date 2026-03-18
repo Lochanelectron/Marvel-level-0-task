@@ -1,5 +1,7 @@
 # Tinkercad Radar System using Ultrasonic Sensor and Servo Motor
 
+https://www.tinkercad.com/things/8SoRz5937OM-task-9-radar-technology?sharecode=QM6hJPJ7FRh1C6tnbEFUOc9_LlNKiD1OQsxqv2dsR9k
+
 ## Aim
 To create and simulate a simple radar system using **Tinkercad** with an **ultrasonic sensor** and **servo motor** to detect objects and display their distance on the serial monitor.
 
