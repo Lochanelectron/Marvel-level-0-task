@@ -85,3 +85,5 @@ This shows that my manual implementation worked correctly.
 
 ## Conclusion
 In this project, I implemented linear regression from scratch and trained it using gradient descent. I learned how weights are updated during training, why feature scaling is important, and how to evaluate regression models using standard metrics. Comparing my model with scikit-learn helped me understand how machine learning libraries simplify the process while still using the same core concepts.
+
+https://github.com/user-attachments/assets/ee2b46ca-23b9-4a6d-a687-6292c215f0c1
