@@ -112,7 +112,7 @@ Some common file formats used in 3D printing are:
 Under coordinator supervision, I performed the following steps:
 
 1. Downloaded an **STL file** from an online 3D model library.
-2. Opened the file in **Ultimaker Cura / Creality Slicer**.
+2. Opened the file in **Mesh slice**.
 3. Adjusted the printing parameters such as:
    - Nozzle temperature
    - Bed temperature
