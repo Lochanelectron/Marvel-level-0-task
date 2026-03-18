@@ -38,3 +38,5 @@ I successfully designed and implemented a 555 astable multivibrator with a duty 
 
 ## Conclusion
 The experiment was successful. I learned how to design an astable multivibrator and verify its output waveform practically.
+
+https://github.com/user-attachments/assets/1e5c80d6-f2c0-4ba3-84af-d9b5671404fe
