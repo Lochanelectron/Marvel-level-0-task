@@ -60,4 +60,6 @@ http://localhost:3000/index1.html
 In this task I created a simple Express web app that works as a humorous resource library.  
 This helped me understand how to set up a Node.js project, create routes in Express, serve HTML files, and redirect users to external links.
 
+https://github.com/user-attachments/assets/fc5d2c87-3a0d-4cc8-9e05-84d7cfb96703
+
 
