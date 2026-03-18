@@ -1,5 +1,7 @@
 # DC Motor Speed Control using ESP32 and Potentiometer
 
+https://www.tinkercad.com/things/k67gyamAKQP-task-10-speed-control-of-motor?sharecode=ZtX9hunWDmw_VMBZZNvtPVp4DR3AHdN8--InCXOjzwI
+
 ## Aim
 The aim of this project is to control the speed of a DC motor using a potentiometer and an ESP32 microcontroller.
 
