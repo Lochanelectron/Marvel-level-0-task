@@ -38,3 +38,5 @@ The ESP32 continuously reads the potentiometer value. When I rotate the potentio
 
 ## Result
 I successfully controlled the speed of a DC motor using a potentiometer and ESP32.
+
+https://github.com/user-attachments/assets/115242c0-449a-4f7f-b17e-a12fbb55cbae
