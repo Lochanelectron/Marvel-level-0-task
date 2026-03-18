@@ -130,4 +130,6 @@ Through this task I learned:
 
 Overall, this task provided a simple introduction to working with **NumPy arrays and data visualization in Python**.
 
+https://github.com/user-attachments/assets/caafce82-ee8f-40d0-a06f-495a1de09feb
+
 
