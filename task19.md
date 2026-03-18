@@ -1,5 +1,7 @@
 # Express Web App – Life Problem Resource Library
 
+https://filebin.net/9ltc7l4tv59lk908/lifeproblemslibrary.zip  (zip file for whole library)
+
 ## Introduction
 
 For this task I created a small web application using **Node.js** and **Express.js**. 
