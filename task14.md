@@ -1,5 +1,7 @@
 # Task 14: Karnaugh Maps and Logic Circuit – Burglar Alarm
 
+https://www.tinkercad.com/things/1ppeT3pxYKr-robbery?sharecode=4S2n4-1CRkqjYguGNPokaerqtkIAEla9F6aD16JffWU
+
 ## Objective
 To design a simple burglar alarm using logic gates by analyzing door and key inputs with a Karnaugh Map (K-map).
 
