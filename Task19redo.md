@@ -32,10 +32,10 @@ Handle form submissions
 Render web pages using EJS
 
 ### 2. Difference Between Node.js and JavaScript
-JavaScript	|   Node.js
-|Programming language |  Runtime environment |
-|Runs in browser	Runs |   outside browser     |
-|Used for frontend	 |  Used for backend     |
+-      JavaScript	       |        Node.js
+- |Programming language  |  Runtime environment  |
+- |Runs in browser	Runs |   outside browser     |
+- |Used for frontend	   |  Used for backend     |
 
 JavaScript = the language
 Node.js = tool that lets JavaScript run on your computer/server
